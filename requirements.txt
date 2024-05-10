@@ -7,3 +7,4 @@ openpyxl
 lifetimes
 hyperopt 
 optuna
+tabulate
